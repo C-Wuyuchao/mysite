@@ -1,0 +1,2 @@
+# mysite
+django for blog
